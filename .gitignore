@@ -1,0 +1,11 @@
+# Python virtual environment directory
+\.venv
+
+# Temp project directory
+\tmp
+
+# Python compilation artifacts
+*.pyc
+
+# Image outputs
+\outputs
