@@ -1,0 +1,10 @@
+# Python virtual env
+\.venv
+# Project temp folder
+\tmp
+# Output content
+\outputs
+# Python c files
+*.pyc
+# Model data
+*.ckpt
